@@ -4,8 +4,8 @@
 # Favourite Languages
 - 📚 Python, HTML, CSS.
 
-# Read More on my site: 
+# Read more on my site: 
 - 🌐 https://aussie-notok.github.io/
-<!-- Tweets -->
 
+#My latest tweet
 [![](https://gtce.itsvg.in/api?username=aussie_okay)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
