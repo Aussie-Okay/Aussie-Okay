@@ -1,20 +1,28 @@
-<h1 align="center">Hi 👋, I'm Ethan</h1>
-<h3 align="center">A passionate developer from South Australia</h3>
+# 💫 About Me:
+👋 Hey there, I'm Ethan a passionate developer from South Australia<br>♾️ Autistic<br>🌐 Visit my website https://github.com/Aussie-Notok/Aussie-Notok<br>🪴 I’m currently learning python and guilded.py.<br>📫 How to reach me Aussie_Notok on Guilded<br>🖥️ Setup: Laptop IdeaPad L340-15IRH Gaming, Keyboard G512 carbon GX Brown, Mouse G203
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aussie-notok&label=Profile%20views&color=0e75b6&style=flat" alt="aussie-notok" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aussie-notok" alt="aussie-notok" /></a> </p>
+## 🌐 Socials:
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/Aussie_Notok) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Aussie_Okay) 
 
-- 🌱 I’m currently learning **Guilded API and more**
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Aussie-Notok&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Aussie-Notok&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aussie-Notok&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 📫 How to reach me **Aussie_Notok on Guilded**
+## 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=Aussie_Okay)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/aussie_okay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aussie_okay" height="30" width="40" /></a>
-</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
+[![](https://visitcount.itsvg.in/api?id=Aussie-Notok&icon=0&color=12)](https://visitcount.itsvg.in)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aussie-notok&show_icons=true&locale=en" alt="aussie-notok" /></p>
+  ## 💰 You can help me by Donating
+  [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/Aussie_Notok) 
+
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
